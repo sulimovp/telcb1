@@ -181,10 +181,3 @@ Gestern ___________ (sein) ich in der Stadt. Ich ___________ (gehen) einkaufen, 
 3. Wann verwendet man "haben", wann "sein" im Perfekt?
 4. Wie bildet man das Passiv im Perfekt?
 5. Wann verwendet man Konjunktiv II?
-
-**Lösungen (Kurze Antworten):**
-1. Perfekt - разговорная речь, Präteritum - письменная речь, повествование
-2. "weil" - придаточное предложение (глагол в конце), "denn" - главное предложение
-3. "sein" - движение, изменение состояния; "haben" - остальные глаголы
-4. sein + Partizip II + worden
-5. Вежливые формы, нереальные условия, желания
